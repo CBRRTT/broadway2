@@ -1,17 +1,50 @@
 html {
   text-align: center;
+  font-family: Helvetica;
+}
+
+#header {
+  background-color: pink;
+}
+
+#home {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav a {
+font-size: 18px;
+color: white;
+}
+
+#processheader {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
 }
 
 
+#midgraphic {
+  background-color: pink;
+}
 
-
-
-
-
-
-
-
-
-.footer {
+.footer p {
+  font-size: 11px;
   text-align: left;
+  background-color: pink;
+  color: white;
+}
+
+.footer a {
+  font-size: 18px;
+  color: white;
 }
