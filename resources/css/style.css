@@ -4,7 +4,9 @@ html {
 }
 
 #header {
-  background-color: pink;
+  --background-position: center;
+  --background-repeat: no-repeat;
+  background-image: url("/Users/crystalburritt/Desktop/learn/codecademy/broadway2/resources/images/the-flatiron-building.png")
 }
 
 #home {
@@ -35,6 +37,7 @@ color: white;
 
 #midgraphic {
   background-color: pink;
+  color: white;
 }
 
 .footer p {
