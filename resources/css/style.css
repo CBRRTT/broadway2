@@ -2,3 +2,13 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url("/Users/crystalburritt/Desktop/learn/codecademy/broadway2/resources/images/the-flatiron-building.png");
+}
